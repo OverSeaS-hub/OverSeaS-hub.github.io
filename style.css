@@ -91,10 +91,9 @@ header {
 	padding: 0.25rem;
 	text-decoration: none;
 	color: black;
-	font-family: "Comfortaa", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: 300;
-	font-style: bold;
+	/*font-family: "Comfortaa", sans-serif;*/
+	/*font-optical-sizing: auto;*/
+	font-weight: bolder;
 }
 /*#submit:hover {
 	background-color: #3a8;
